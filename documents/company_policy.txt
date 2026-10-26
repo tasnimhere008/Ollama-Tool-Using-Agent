@@ -1,0 +1,13 @@
+Company Leave Policy
+
+Employees receive 20 days of annual leave per year.
+
+Employees should request leave from their manager before taking leave.
+
+Unused leave policies may depend on company rules.
+
+Internship Project Policy
+
+Interns should submit a project report at the end of their internship.
+
+The report should include project objectives, system design, implementation, testing, and conclusion.
